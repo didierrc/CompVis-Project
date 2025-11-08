@@ -1,0 +1,6 @@
+Last try on Scratch Inception V3
+
+- Added BatchNorm to the 256 ffNN layer
+- Increased Weight Decay (applying stronger regularization to your model's weights. This encourages the model to use smaller weights overall)
+
+- Results: Increased a bit accuracy and recall/precision.
