@@ -1,0 +1,3 @@
+- Added DataAug + GlobalAvgPooling (less params) to reduce Overfitting!!
+- Added also an additional ffNN layer with Dropout.
+- Results: Less Overfit (but still too much -> due to InceptionV3 being TOO BIG for such a small dataset) and More accuracy!

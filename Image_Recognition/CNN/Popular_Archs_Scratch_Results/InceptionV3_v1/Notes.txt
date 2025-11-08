@@ -1,0 +1,5 @@
+tried a simple version of GoogleLeNet with InceptionV3.
+- set weights to None to train model from scratch.
+- added a simple 13 neuron layers to classify images.
+- Changed to 32 batch size (initially tried with 16 but training time lasted +10h)
+- Results: Huge Overfit
