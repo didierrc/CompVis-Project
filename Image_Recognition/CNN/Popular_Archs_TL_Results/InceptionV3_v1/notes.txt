@@ -1,0 +1,4 @@
+Simplest model.
+- InceptionV3 is now using its previous learned weights
+- Freezing the base model as we do not want to train the base model.
+- RESULTS: huge overfit.
