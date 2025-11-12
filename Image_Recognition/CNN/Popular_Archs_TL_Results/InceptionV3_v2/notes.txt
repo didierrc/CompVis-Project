@@ -1,0 +1,4 @@
+- Added Data Augmentation
+- Results: Reduced greatly overfitting but there still is.
+- Accuracy: Less than before.
+- Time: 1.20h (change from scratch!)
